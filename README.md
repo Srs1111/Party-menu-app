@@ -34,5 +34,5 @@ party-menu-app/
 │── package.json
 │── README.md
 
-#To Run app
+# To Run app
 npm start
