@@ -1,8 +1,8 @@
-Party Menu App
+# Party Menu App
 
 A simple React-based web app to plan party menus. Users can select between Veg and Non-Veg starters using styled filter buttons. The active button highlights the current selection, making menu planning smooth and user-friendly.
 
-🚀 Features
+## Features
 
 Toggle between Veg and Non-Veg menu categories
 
@@ -12,7 +12,7 @@ Responsive design for desktop & mobile
 
 Built with React functional components and CSS modules
 
-🛠️ Tech Stack
+ # Tech Stack
 
 Frontend: React.js, CSS
 
@@ -22,7 +22,7 @@ Build Tool: Vite / Create React App
 
 Tools: Git, VS Code
 
-📂 Project Structure
+# Project Structure
 party-menu-app/
 │── src/
 │   ├── components/
